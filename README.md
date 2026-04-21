@@ -1,7 +1,7 @@
 # VPStore — Interrapidísimo Controller APP
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/icon.png?token=GHSAT0AAAAAADZUIWPEWTVC75WZNZ24YCBQ2PHW65A" alt="Interrapidísimo" width="320"/>
+  <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/icon.png" alt="Interrapidísimo" width="320"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Descarga
 
-Puedes descargar la última versión del APK directamente desde la sección de [**Releases**](../../releases/latest) sin necesidad de compilar el proyecto.
+Puedes descargar la última versión del APK directamente desde la sección de [**Releases**](https://github.com/Enrique213-VP/VPStore---Interrapidisimo/releases/tag/1.0.0) sin necesidad de compilar el proyecto.
 
 ---
 
