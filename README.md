@@ -35,7 +35,7 @@ Puedes descargar la última versión del APK directamente desde la sección de [
 
 | Login | Localidades |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/login.png?token=GHSAT0AAAAAADZUIWPE67SL6E7JZJG4YBPM2PHXAQQ" width="220"/> | <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/localidades.png?token=GHSAT0AAAAAADZUIWPFVXUJS64IDYKE3VO42PHW74Q" width="220"/> |
+| <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/login.png" width="220"/> | <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/localidades.png" width="220"/> |
 
 ---
 
@@ -45,12 +45,12 @@ Puedes descargar la última versión del APK directamente desde la sección de [
 
 Trazas reales de OkHttp mostrando la request y response del login contra el servidor de pruebas.
 
-<img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/logcat.png?token=GHSAT0AAAAAADZUIWPELTSIRX44HZTR6ROC2PHXAZA" alt="Logcat login" width="100%"/>
+<img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/logcat.png" alt="Logcat login" width="100%"/>
 
 ### API — Postman
 
 
-<img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/postman.png?token=GHSAT0AAAAAADZUIWPF2JAPEYELHXF2XP7I2PHXBBA" alt="Postman" width="100%"/>
+<img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/postman.png" alt="Postman" width="100%"/>
 
 ### Tests
 
@@ -58,7 +58,7 @@ Resultados de los unit tests y los instrumented tests desde Android Studio.
 
 | Unit Tests |
 |:---:|
-| <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/unitTest.png?token=GHSAT0AAAAAADZUIWPEBSD4WDFHGJ2CMFH62PHXBOQ" width="420"/> |
+| <img src="https://raw.githubusercontent.com/Enrique213-VP/VPStore---Interrapidisimo/refs/heads/main/app/src/main/screenshots/unitTest.png" width="420"/> |
 
 ---
 
